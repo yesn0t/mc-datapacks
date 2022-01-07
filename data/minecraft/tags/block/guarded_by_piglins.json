@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:gold_block",
+    "minecraft:chest",
+    "minecraft:gilded_blackstone",
+    "minecraft:nether_gold_ore"
+  ]
+}
